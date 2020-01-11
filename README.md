@@ -13,7 +13,7 @@ As college students ourselves, we recognize the importance of academic success a
 
 
 ## Team Members
-### *BruinAlarm was made with :heart: by the following talents:*
+### *BruinAlarm was made with :heart: by:*
 - Christian Aguilar, *University of California, Los Angeles*
 - Anna Anderson, *University of California, Los Angeles*
 - Jim Solomon, *University of California, Los Angeles*
