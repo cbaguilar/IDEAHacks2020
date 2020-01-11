@@ -9,10 +9,13 @@ Many obstacles arise in a student's journey to maximize the college experience. 
 As college students ourselves, we recognize the importance of academic success and the sacrafices that have to be made to achieve said success. That being said, we also recognize that a good night's sleep plays a pivotal role in our health and overall performance in and out of the classroom. Knowing that the majority of students - including us - will sacrafice a proper good night's sleep for top marks in our courses, we decided to build a vibrating alarm and incorporate that into a comfortable, portable pillow that students can take with them anywhere on campus. That way, they can take quick naps in between classes and allow their brains to rest for the inevitable all-nighter.
 
 ## Research
-Daytime sleepiness is a major problem experienced by college students, which is caused by sleep deprivation due to the lack of sleep students obtain. 70.6% of students report getting less than the recommended 8 hours of sleep every night, and 82.1% said they took a form of medication to aid in sleep.[[1]](https://www.sciencedirect.com/science/article/pii/S1054139X09002389)
+Daytime sleepiness is a major problem experienced by college students, which is caused by sleep deprivation due to the lack of sleep students obtain. 70.6% of students report getting less than the recommended 8 hours of sleep every night, and 82.1% said they took a form of medication to aid in sleep.[[1]](https://www.sciencedirect.com/science/article/pii/S1054139X09002389) Failing to obtain the recommended amount of sleep every night are caused by a host of factors, some of which include all-nighters; the consumption of caffinated beverages and energy drinks; the use of stimulants, such as adderall; and the prevalent use of technology. All of these incur negative consequences on the student.
+
+College students who were categorized as "long sleepers" (>9 hours/night) had an average grade point average (GPA) that was 0.5 higher than students categorized as "short sleepers" (<6 hours/night).[[2]](https://pdfs.semanticscholar.org/796b/c55a51c8b4c317378e54db310254c1c5eb39.pdf)
 
 #### References
-1. Lund HG, Reider BD, Whiting AB, Prichard JR. Sleep patterns and predictors of disturbed sleep in a large population of college students. J Adolesc Health. 2010;46(2):124–132. [PubMed](https://www.sciencedirect.com/science/article/pii/S1054139X09002389)
+1. Lund HG, Reider BD, Whiting AB, Prichard JR. Sleep patterns and predictors of disturbed sleep in a large population of college students. J Adolesc Health. 2010;46(2):124–132. [[PubMed]](https://www.sciencedirect.com/science/article/pii/S1054139X09002389)
+2. Kelly WE, Kelley KE, Clanton RC. The relationship between sleep length and grade-point average among college students. Coll Stud J. 2001;35(1):84–86. [[PDF]](https://pdfs.semanticscholar.org/796b/c55a51c8b4c317378e54db310254c1c5eb39.pdf)
 
 
 ## Team Members
