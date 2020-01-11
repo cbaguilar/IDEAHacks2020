@@ -35,7 +35,7 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 - Christian Aguilar, *University of California, Los Angeles*
 - Anna Anderson, *University of California, Los Angeles*
 - Jim Solomon, *University of California, Los Angeles*
-- Joel Sanchez, *Riverside Community College*
+- Joel Sanchez, *Riverside City College*
 - Elbert Nguyen, *University of California, Riverside*
 
 *BruinAlarm 2020. Made with :heart: by the BruinAlarm team in Los Angeles, CA.*
