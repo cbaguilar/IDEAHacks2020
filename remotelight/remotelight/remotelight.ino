@@ -30,16 +30,28 @@ void setup() {
   pinMode(motor2b, OUTPUT);
 
   
-  digitalWrite(motor1a, HIGH);
-  digitalWrite(motor1b, LOW);
-  digitalWrite(motor2a, HIGH);
-  digitalWrite(motor2b, LOW);
+  digitalWrite(motor1a, HIGH); // represents ON
+  digitalWrite(motor1b, LOW); // represents OFF
+  digitalWrite(motor2a, HIGH); // represents ON
+  digitalWrite(motor2b, LOW); // represents OFF
 
   
   //digitalWrite(LED, HIGH);
   Serial.begin(115200);
   SerialBT.begin("ESP32test"); //Bluetooth device name
   Serial.println("The device started, now you can pair it with bluetooth!");
+}
+
+void toggleMotors() {
+  if (SerialBT.available()) { // if BT signal available
+    // TO FIX: set both motors' status to HIGH
+    digitalWrite(motor1a, HIGH);
+    digitalWrite(motor2a, HIGH);
+  } else {
+    // TO FIX: set both motors' status to LOW
+    digitalWrite(motor1b, LOW);
+    digitalWrite(motor2b, LOW);
+  }
 }
 
 void loop() {
