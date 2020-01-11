@@ -38,7 +38,7 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 - **1x** Bipolar motor driver
 - **1x** 3.3v voltage regulator
 - **4x** Custom-designed 3D-printed motor fittings
-![Joel designed these 3D-printed motor fittings using SolidWorks.](assets/3D-Printed-Motor-Fittings.JPG)
+![Joel designed these 3D-printed motor fittings using SolidWorks.](assets/3D-Printed-Motor-Fittings.JPG =480x640)
 
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
