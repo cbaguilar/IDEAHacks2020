@@ -30,6 +30,16 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 3. *Trockel MT, Barnes MD, Egget DL. Health-related variables and academic performance among first-year college students: implications for sleep and other behaviors. J Am Coll Health. 2000;49(3):125–131.* [[PubMed]](https://www.tandfonline.com/doi/abs/10.1080/07448480009596294) [[PDF]](https://www.tandfonline.com/doi/pdf/10.1080/07448480009596294?needAccess=true)
 4. *Mednick S, Nakayama K, Stickgold R. Sleep-dependent learning: a nap is as good as a night. Nat Neurosci. 2003;6(7):697–698.* [[Google Scholar]](https://scholar.google.com/scholar_lookup?journal=Nat+Neurosci&title=Sleep-dependent+learning:+a+nap+is+as+good+as+a+night&author=S+Mednick&author=K+Nakayama&author=R+Stickgold&volume=6&issue=7&publication_year=2003&pages=697-698&pmid=12819785&) [[Link]](https://www.nature.com/articles/nn1078)
 
+## Hardware Used
+### We utilized the following pieces of hardware to create our hardware hack:
+- **1x** WiFi + Bluetooth microcontroller - ESP32
+- **2x** DC motors
+- **1x** Duracell 9V battery
+- **1x** Bipolar motor driver
+- **1x** 3.3v voltage regulator
+- **4x** Custom-designed 3D-printed motor fittings
+![Joel designed these 3D-printed motor fittings using SolidWorks.](assets/3D-Printed-Motor-Fittings.JPG)
+
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
 - Christian Aguilar, *University of California, Los Angeles*
