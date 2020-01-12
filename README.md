@@ -56,14 +56,14 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 This is our final product. 
 
 ### Software Component
-![](assets/app_alarmclock.jpg)
+![](assets/HardwareAssets/app_alarmclock.jpg)
 
-![](assets/app_mainscreen.jpg)
+![](assets/HardwareAssets/app_mainscreen.jpg)
 
 ### Hardware Component
-![](assets/soldered_hardware.jpg)
+![](assets/HardwareAssets/soldered_hardware.jpg)
 
-![](assets/v1_3d-printed-motor-fittings.jpg)
+![](assets/HardwareAssetsv1_3d-printed-motor-fittings.jpg)
 
 ## Team Members
 - Christian Aguilar, *University of California, Los Angeles*
