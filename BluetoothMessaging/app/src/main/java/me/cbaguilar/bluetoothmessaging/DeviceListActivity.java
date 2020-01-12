@@ -2,16 +2,20 @@ package me.cbaguilar.bluetoothmessaging;
 
 import java.util.Set;
 import android.app.Activity;
+import android.app.TimePickerDialog;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.Intent;
+import android.icu.util.Calendar;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.TimePicker;
 import android.widget.Toast;
 
 import me.cbaguilar.bluetoothmessaging.R;
@@ -19,6 +23,11 @@ import me.cbaguilar.bluetoothmessaging.R;
 public class DeviceListActivity extends Activity {
 
     public static String EXTRA_DEVICE_ADDRESS;
+
+    private int mYear, mMonth, mDay, mHour, mMinute;
+
+
+
 
     // textview for connection status
     TextView textConnectionStatus;
@@ -31,8 +40,15 @@ public class DeviceListActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
+
+
+
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_device_list);
+
+
+
 
         textConnectionStatus = (TextView) findViewById(R.id.connecting);
         textConnectionStatus.setTextSize(40);
@@ -45,6 +61,9 @@ public class DeviceListActivity extends Activity {
         pairedListView.setAdapter(mPairedDevicesArrayAdapter);
 
         pairedListView.setOnItemClickListener(mDeviceClickListener);
+
+
+
 
 
     }
