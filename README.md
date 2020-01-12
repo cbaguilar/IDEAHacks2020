@@ -62,6 +62,7 @@ This is our final product.
 
 ### Hardware Component
 
+
 ## Team Members
 - Christian Aguilar, *University of California, Los Angeles*
 - Anna Anderson, *University of California, Los Angeles*
