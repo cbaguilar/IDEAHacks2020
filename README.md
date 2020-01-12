@@ -49,7 +49,11 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 - Xcode
 
 ## Final Product
-This is our final product.
+This is our final product. 
+
+![](assets/app_alarmclock.jpg)
+
+![](Assets/app_mainscreen.jpg)
 
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
