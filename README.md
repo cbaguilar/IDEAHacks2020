@@ -62,7 +62,6 @@ This is our final product.
 ### Hardware Component
 
 ## Team Members
-### *BruinAlarm was made with :heart: by:*
 - Christian Aguilar, *University of California, Los Angeles*
 - Anna Anderson, *University of California, Los Angeles*
 - Elbert Nguyen, *University of California, Riverside*
