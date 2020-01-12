@@ -56,6 +56,10 @@ This is our final product.
 
 ![](assets/app_mainscreen.jpg)
 
+### Hardware Component
+
+![](assets/internal_board.HEIC)
+
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
 - Christian Aguilar, *University of California, Los Angeles*
