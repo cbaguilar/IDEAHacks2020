@@ -53,9 +53,7 @@ This is our final product.
 
 ### Software Component
 Below are some screenshots of our Android application.
-![](assets/app_alarmclock.jpg)
-
-![](Assets/app_mainscreen.jpg)
+![](assets/app_alarmclock.jpg) ![](assets/app_mainscreen.jpg)
 
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
