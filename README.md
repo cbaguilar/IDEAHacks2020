@@ -42,7 +42,8 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 ![Joel designed these 3D-printed motor fittings using SolidWorks.](assets/v1_3d-printed-motor-fittings.jpg)
 
 - Lots of wires
-- Some soldering equipment
+- Soldering equipment
+- 3D printers
 
 ## Software Used
 ### Our hack could not have been possible without the following software programs:
