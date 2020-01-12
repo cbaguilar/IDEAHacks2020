@@ -37,9 +37,7 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 - **1x** Duracell 9V battery
 - **1x** Bipolar motor driver
 - **1x** 3.3v voltage regulator
-- **4x** Custom-designed 3D-printed motor fittings
-
-![Joel designed these 3D-printed motor fittings using SolidWorks.](assets/v1_3d-printed-motor-fittings.jpg)
+- **4x** Custom-designed 3D-printed motor fittings3
 
 - Lots of wires
 - Soldering equipment
