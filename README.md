@@ -61,7 +61,9 @@ This is our final product.
 ![](assets/app_mainscreen.jpg)
 
 ### Hardware Component
+![](assets/soldered_hardware.jpg)
 
+![](assets/v1_3d-printed-motor-fittings.jpg)
 
 ## Team Members
 - Christian Aguilar, *University of California, Los Angeles*
