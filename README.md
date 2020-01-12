@@ -41,6 +41,9 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 
 ![Joel designed these 3D-printed motor fittings using SolidWorks.](assets/v1_3d-printed-motor-fittings.jpg)
 
+- Lots of wires
+- Some soldering equipment
+
 ## Software Used
 ### Our hack could not have been possible without the following software programs:
 - SolidWorks
@@ -57,8 +60,6 @@ This is our final product.
 ![](assets/app_mainscreen.jpg)
 
 ### Hardware Component
-
-![](assets/internal_board.JPG)
 
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
