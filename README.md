@@ -69,4 +69,6 @@ This is our final product.
 - Joel Sanchez, *Riverside City College*
 - Elbert Nguyen, *University of California, Riverside*
 
+*Insert team picture here*
+
 *BruinAlarm 2020. Made with :heart: by the BruinAlarm team in Los Angeles, CA.*
