@@ -48,6 +48,7 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 - SolidWorks
 - Arduino IDE
 - Android Studio
+- Java Android SDK
 - Xcode
 
 ## Final Product
@@ -60,7 +61,6 @@ This is our final product.
 
 ### Hardware Component
 ![](assets/HardwareAssets/soldered_hardware.jpg)
-
 
 ## Team Members
 - Christian Aguilar, *University of California, Los Angeles*
