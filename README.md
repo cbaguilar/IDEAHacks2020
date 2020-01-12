@@ -58,7 +58,7 @@ This is our final product.
 
 ### Hardware Component
 
-![](assets/internal_board.HEIC)
+![](assets/internal_board.JPG)
 
 ## Team Members
 ### *BruinAlarm was made with :heart: by:*
