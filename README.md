@@ -65,9 +65,10 @@ This is our final product.
 ### *BruinAlarm was made with :heart: by:*
 - Christian Aguilar, *University of California, Los Angeles*
 - Anna Anderson, *University of California, Los Angeles*
-- Jim Solomon, *University of California, Los Angeles*
-- Joel Sanchez, *Riverside City College*
 - Elbert Nguyen, *University of California, Riverside*
+- Joel Sanchez, *Riverside City College*
+- Jim Solomon, *University of California, Los Angeles*
+
 
 *Insert team picture here*
 
