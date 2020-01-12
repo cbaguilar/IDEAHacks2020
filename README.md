@@ -69,7 +69,6 @@ This is our final product.
 - Joel Sanchez, *Riverside City College*
 - Jim Solomon, *University of California, Los Angeles*
 
-
 *Insert team picture here*
 
 *BruinAlarm 2020. Made with :heart: by the BruinAlarm team in Los Angeles, CA.*
