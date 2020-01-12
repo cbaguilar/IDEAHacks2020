@@ -29,17 +29,30 @@ void setup() {
   pinMode(motor2a, OUTPUT);
   pinMode(motor2b, OUTPUT);
 
-  
-  digitalWrite(motor1a, HIGH);
-  digitalWrite(motor1b, LOW);
-  digitalWrite(motor2a, HIGH);
-  digitalWrite(motor2b, LOW);
+
 
   
   //digitalWrite(LED, HIGH);
   Serial.begin(115200);
   SerialBT.begin("ESP32test"); //Bluetooth device name
   Serial.println("The device started, now you can pair it with bluetooth!");
+}
+
+void toggleMotors(bool onoff) {
+ if (onoff) {
+  digitalWrite(motor1a, HIGH);
+  digitalWrite(motor1b, LOW);
+  digitalWrite(motor2a, HIGH);
+  digitalWrite(motor2b, LOW);  
+  Serial.println("Motor on");
+ }
+ else {
+  digitalWrite(motor1a, LOW);
+  digitalWrite(motor1b, LOW);
+  digitalWrite(motor2a, LOW);
+  digitalWrite(motor2b, LOW);  
+  Serial.println("Motor off"); 
+ }
 }
 
 void loop() {
@@ -49,7 +62,8 @@ void loop() {
   if (SerialBT.available()) {
     char command = SerialBT.read();
     Serial.write(command);
-    digitalWrite(LED,(command=='0'));
+    digitalWrite(LED,(command=='1'));
+    toggleMotors(command=='1');
   }
   delay(20);
 }
