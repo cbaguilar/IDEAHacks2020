@@ -51,6 +51,8 @@ While naps should not be considered as a be-all end-all solution, it is a crucia
 ## Final Product
 This is our final product. 
 
+### Software Component
+Below are some screenshots of our Android application.
 ![](assets/app_alarmclock.jpg)
 
 ![](Assets/app_mainscreen.jpg)
